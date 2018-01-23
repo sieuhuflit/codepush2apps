@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Mon Jan 22 20:16:17 MSK 2018
+2.base=/Users/sergeyakhalkov/work/microsoft/rncp/codepush2apps/android/app/build/intermediates/assets/debug
+0.path=CodePush/MyRNApp2/index2.android.bundle
+2.baseType=DIRECTORY
+3.base=/Users/sergeyakhalkov/work/microsoft/rncp/codepush2apps/android/app/build/intermediates/assets/debug
+2.set=ASSET
+1.path=CodePushHash
+4.base=/Users/sergeyakhalkov/work/microsoft/rncp/codepush2apps/android/app/build/intermediates/assets/debug
+count=5
+2.path=CodePush/MyRNApp2/index2.android.bundle.meta
+4.set=ASSET
+3.path=CodePush/MyRNApp1/index1.android.bundle.meta
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=CodePush/MyRNApp1/index1.android.bundle
+1.baseType=DIRECTORY
+0.base=/Users/sergeyakhalkov/work/microsoft/rncp/codepush2apps/android/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=/Users/sergeyakhalkov/work/microsoft/rncp/codepush2apps/android/app/build/intermediates/assets/debug
+4.baseType=DIRECTORY
+0.set=ASSET

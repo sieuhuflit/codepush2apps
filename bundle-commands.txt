@@ -1,0 +1,2 @@
+react-native bundle --platform android --dev false --entry-file index1.js --bundle-output android/app/src/main/assets/CodePush/MyRNApp1/index1.android.bundle --assets-dest android/app/src/main/res/
+react-native bundle --platform android --dev false --entry-file index2.js --bundle-output android/app/src/main/assets/CodePush/MyRNApp2/index2.android.bundle --assets-dest android/app/src/main/res/
